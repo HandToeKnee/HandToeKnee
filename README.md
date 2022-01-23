@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HandToeKnee
+- 👋 Hi, I’m @HandToeKnee (Anthony)
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python and Java
 - 📫 Reach me by email: anthonyarseneau146@gmail.com
